@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "path": "/", "title": "Instituto Vida do Bem" },
+    { "path": "/404", "title": "Página não encontrada" }
+  ]
+}
